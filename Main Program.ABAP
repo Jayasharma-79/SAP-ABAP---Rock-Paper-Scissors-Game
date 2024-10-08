@@ -5,6 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT zjs_rps.
 
-INCLUDE : zjs_rps_data,
+INCLUDE : zjs_rps_data, 
           zjs_rps_screen,
           zjs_rps_events.
