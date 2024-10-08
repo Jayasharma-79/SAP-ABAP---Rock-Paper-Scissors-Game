@@ -28,9 +28,11 @@ Output Screen: Displays the result of the game.
 
 ## Sample Case
 User clicks on the "Rock" button.
+
 <img width="791" alt="image" src="https://github.com/user-attachments/assets/64d198f3-9f28-4fe8-ace7-e8c01575d8d0">
 
 System randomly selects: "Scissors."
+
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/bbe28b01-6cbd-4452-8c22-8f9c289b1050">
 
 Result will be displayed as :
