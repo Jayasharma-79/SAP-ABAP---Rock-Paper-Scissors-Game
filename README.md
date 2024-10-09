@@ -36,6 +36,6 @@ System randomly selects: "Scissors."
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/93428d55-1797-4492-a9fe-3bee6d37c09b">
 
 Result will be displayed as :
-"You win! (Rock crushes Scissors)"
+"System win! (Scissors cut paper)"
 
 ## Thanks!!
