@@ -33,7 +33,7 @@ User clicks on the "Rock" button.
 
 System randomly selects: "Scissors."
 
-<img width="544" alt="image" src="https://github.com/user-attachments/assets/bbe28b01-6cbd-4452-8c22-8f9c289b1050">
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/93428d55-1797-4492-a9fe-3bee6d37c09b">
 
 Result will be displayed as :
 "You win! (Rock crushes Scissors)"
